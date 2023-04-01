@@ -1,4 +1,4 @@
-# CurrencyCoverter
+# Currency Coverter
  It is a Currency Converter Application which converts  INDIAN RUPEEs to another Currency. It has different buttons  
  with different currency symbols which converts user's given amount in Rupees to that selected currency .
 ## Interface of Application:-
